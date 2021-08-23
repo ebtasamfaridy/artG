@@ -1,2 +1,0 @@
-# artG
-online art gallery
